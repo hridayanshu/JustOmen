@@ -1,0 +1,1 @@
+This was a small project I made in 2021 (When I was 14). I really can overlook on how much of a progress I have made over the past few years!. This even was made without the knowledge about backend and frontend interfaces which is hilarious.
